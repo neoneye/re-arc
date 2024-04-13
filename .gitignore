@@ -1,3 +1,7 @@
+# dataset dirs
+arc_original/
+re_arc/
+
 # python virtualenv
 venv/
 
